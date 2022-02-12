@@ -5,6 +5,7 @@ from level import Level
 
 class Game:
     def __init__(self):
+        # comment
 
         # general setup
         pygame.init()
